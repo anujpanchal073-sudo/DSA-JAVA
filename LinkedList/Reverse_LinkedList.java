@@ -1,12 +1,12 @@
 //Plateform - LeetCode
 //QuestionId - 206
 
-/*
+
 class Node{
     int data;
     Node next;
     Node(int a){  data = a; next = null; }
-}*/
+}
 
 public class Reverse_LinkedList {
     public Node reverseList(Node head) {
